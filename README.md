@@ -2,7 +2,7 @@
 
 ## 🚧 Coming Soon 🚧
 
-Thank you for your interest in **Project Name**! We are currently working hard to get everything ready for you. Stay tuned for updates and the official launch.
+Thank you for your interest in **ArtofMath**! We are currently working hard to get everything ready for you. Stay tuned for updates and the official launch.
 
 ## Deployment Status
 
